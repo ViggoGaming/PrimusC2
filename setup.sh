@@ -42,6 +42,6 @@ echo -e '\n'
 echo '########################################################################'
 echo '[*] Installing python requirements...'
 echo '########################################################################'
-pip3 install -r ~/PrimusC2/requirements.txt
+pip3 install -r requirements.txt
 
 
